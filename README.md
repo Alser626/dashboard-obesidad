@@ -20,7 +20,7 @@ Dashboard interactivo desarrollado con Dash y Plotly que presenta los resultados
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/TU_USUARIO/dashboard-obesidad.git
+git clone github.com/Alser626/dashboard-obesidad
 cd dashboard-obesidad
 
 # 2. Instalar dependencias
@@ -30,8 +30,7 @@ pip install -r requirements.txt
 python app.py
 
 # 4. Abrir en el navegador
-# http://127.0.0.1:8050
-```
+# https://8050-m-s-948leo2alv1j-d.us-east1-0.prod.colab.dev/```
 
 ## Dataset
 
